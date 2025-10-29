@@ -1,0 +1,2 @@
+machine_id,priority,max_failure_probability,avg_failure_probability,high_risk_hours,recommended_action,timeframe
+PUMP-001,CRITICAL,99.8%,13.0%,70.5,Immediate shutdown and inspection required,Within 24 hours
