@@ -135,10 +135,10 @@ prediction = int(probability >= config['optimal_threshold'])
 
 ## Business Impact
 
-- ⚡ **30-40%** reduction in unplanned downtime
-- 💰 **25%** decrease in maintenance costs
-- 🔧 **2-3 days** advance warning for failures
-- 📊 **Real-time** equipment health monitoring
+-  **30-40%** reduction in unplanned downtime
+-  **25%** decrease in maintenance costs
+-  **2-3 days** advance warning for failures
+-  **Real-time** equipment health monitoring
 
 ## Future Enhancements
 
