@@ -2,6 +2,13 @@
 
 A machine learning system for predicting equipment failures in industrial environments using IoT sensor data.
 
+
+## Problem Definition
+
+Industrial equipment downtime costs manufacturers millions in lost productivity and maintenance expenses every year. Most factories still rely on reactive or scheduled maintenance, where machines are serviced only after breakdowns or at fixed intervals — regardless of actual condition. This approach leads to wasted maintenance cycles, unexpected failures, and supply chain delays.
+
+The Industrial Predictive Maintenance System addresses this by using IoT sensor data and machine learning to detect anomalies and predict failures before they happen. By analyzing real-time temperature, vibration, and pressure data, the system forecasts potential breakdowns 24–48 hours in advance, enabling proactive, data-driven maintenance that minimizes downtime, cuts costs, and extends equipment lifespan.
+
 ## Overview
 
 This project demonstrates end-to-end predictive maintenance using time series analysis, anomaly detection, and machine learning classification. The system monitors temperature, vibration, and pressure sensors to predict failures 24-48 hours in advance, enabling proactive maintenance scheduling.
